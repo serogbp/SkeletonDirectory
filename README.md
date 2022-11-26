@@ -2,7 +2,7 @@
 
 ## Description
 
-Small script that generates a skeleton of folders and empty files from a .json file.
+Small script that generates a folder and file structure skeleton from a .json file.
 
 You can add your own .json files in the folder `skeletons` (or make a pull request 😉).
 
