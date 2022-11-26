@@ -1,0 +1,127 @@
+{
+	"name": "gdquest_starter",
+	"structure": [
+		{
+			"type": "folder",
+			"name": "addons",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "autoload",
+			"children": [
+				{
+					"type": "file",
+					"name": "saveManager.gd"
+				},
+				{
+					"type": "file",
+					"name": "saveManager.gd"
+				}
+			]
+		},
+		{
+			"type": "folder",
+			"name": "common",
+			"children": [
+				{
+					"type": "folder",
+					"name": "sound",
+					"children": [
+						{
+							"type": "folder",
+							"name": "music",
+							"children": []
+						},
+						{
+							"type": "folder",
+							"name": "sfx",
+							"children": []
+						}
+					]
+				},
+				{
+					"type": "folder",
+					"name": "damage_area",
+					"children": []
+				},
+				{
+					"type": "folder",
+					"name": "hitbox",
+					"children": []
+				},
+				{
+					"type": "folder",
+					"name": "particles",
+					"children": []
+				},
+				{
+					"type": "folder",
+					"name": "shaders",
+					"children": []
+				}
+			]
+		},
+		{
+			"type": "folder",
+			"name": "entities",
+			"children": [
+				{
+					"type": "folder",
+					"name": "player",
+					"children": [
+						{
+							"type": "folder",
+							"name": "sprite",
+							"children": []
+						}
+					]
+				},
+				{
+					"type": "folder",
+					"name": "enemies",
+					"children": [
+						{
+							"type": "folder",
+							"name": "sprite",
+							"children": []
+						}
+					]
+				},
+				{
+					"type": "folder",
+					"name": "npc",
+					"children": [
+						{
+							"type": "folder",
+							"name": "sprite",
+							"children": []
+						}
+					]
+				},
+				{
+					"type": "folder",
+					"name": "bullets",
+					"children": [
+						{
+							"type": "folder",
+							"name": "sprite",
+							"children": []
+						}
+					]
+				},
+				{
+					"type": "folder",
+					"name": "pickups",
+					"children": [
+						{
+							"type": "folder",
+							"name": "sprite",
+							"children": []
+						}
+					]
+				}
+			]
+		}
+	]
+}

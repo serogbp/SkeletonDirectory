@@ -1,0 +1,135 @@
+{
+	"name": "alphabet_upper",
+	"structure": [
+		{
+			"type": "folder",
+			"name": "A",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "B",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "C",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "D",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "E",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "F",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "G",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "H",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "I",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "J",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "K",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "L",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "M",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "N",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "O",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "P",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "Q",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "R",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "S",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "T",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "U",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "V",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "W",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "X",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "Y",
+			"children": []
+		},
+		{
+			"type": "folder",
+			"name": "Z",
+			"children": []
+		}
+	]
+}
